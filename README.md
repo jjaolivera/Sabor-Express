@@ -3,7 +3,7 @@ Sistema de Cadastro de Restaurantes (Python)
 
 Este é um projeto educacional em Python criado para praticar conceitos básicos de programação, como listas, funções, loops, tratamento de erros e entrada de dados. Ele permite cadastrar, consultar e ativar restaurantes de forma simples.
 
-⚠️ Aviso: Este projeto é apenas para aprendizado e não deve ser usado em produção.
+Aviso: Este projeto é apenas para aprendizado e não deve ser usado em produção.
 
 Funcionalidades
 
